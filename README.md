@@ -1,5 +1,5 @@
 # Seft-Driving-Car-Simlulation
-Self Driving car simulation using Unity ML-Agents.
+Self Driving car simulation using Unity ML-Agents.<br>
 SELF DRIVING VEHICLE SIMULATION USING NEURAL NETWORK AND GENETIC ALGORITHM
 This simulator is built on Unity 3D software. This Game engine is the core of this simulator development. Unity 3D is a multi-platform game development tool as well as a fully integrated game engine, which provides functions such as rendering engine, physics engine, scripting engine, lightmap, and scene management and supports these three programming languages C# .
 Unity 3D is utilized to incorporate the embedded designed car into the test situation while the car’s movements and steering angle can serve as an examination premise. Options are available to choose sensors, monitor the output, and implement any autonomous driving, steering prediction, deep learning, and end-to-end learning algorithm.
